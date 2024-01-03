@@ -4,6 +4,13 @@
 
 ### Dataset Used :- https://www.kaggle.com/datasets/rmisra/imdb-spoiler-dataset
 
+### Prediction for Spoiler Free Review
+![spoiler free](https://github.com/AkhileshKolambekar/Spoiler-or-Not/assets/86556963/88e56181-07fb-4ceb-a050-bacb657ffde2)
+
+### Prediction for Review containing spoilers
+![spoiler](https://github.com/AkhileshKolambekar/Spoiler-or-Not/assets/86556963/96c5e790-a31f-434a-af2f-aff7e53040c8)
+
+
 #### Spoiler free review for the movie Fight Club :-
 "Superb, and truly one of the greatest movies of all time.
 
