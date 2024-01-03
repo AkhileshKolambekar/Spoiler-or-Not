@@ -1,5 +1,9 @@
 # Spoiler-or-Not
 
+### In this project
+
+Dataset Used :- https://www.kaggle.com/datasets/rmisra/imdb-spoiler-dataset
+
 Spoiler free review for the movie Fight Club :-
 Superb, and truly one of the greatest movies of all time.
 
